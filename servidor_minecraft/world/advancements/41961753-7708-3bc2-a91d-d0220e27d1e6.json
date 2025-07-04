@@ -18377,18 +18377,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-07-02 01:53:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-07-02 01:53:12 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-07-02 01:28:51 +0000"
@@ -18398,6 +18386,66 @@
   "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-07-02 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-02 01:28:51 +0000"
+    },
+    "done": true
+  },
+  "industrialforegoing:recipes/misc/plastic": {
+    "criteria": {
+      "has_plastic": "2025-07-02 01:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-07-02 01:53:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-07-02 01:53:12 +0000"
     },
     "done": true
   },
@@ -18443,24 +18491,6 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/shaped/walls/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-07-02 01:28:51 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/slabs/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-07-02 01:28:51 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/cut_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-07-02 01:28:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 01:53:12 +0000"
@@ -18473,33 +18503,9 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-02 01:28:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-02 01:53:12 +0000"
-    },
-    "done": true
-  },
-  "industrialforegoing:recipes/misc/plastic": {
-    "criteria": {
-      "has_plastic": "2025-07-02 01:42:26 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
-    "criteria": {
-      "has_quartz_block": "2025-07-02 01:28:51 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/stairs/quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-07-02 01:28:51 +0000"
     },
     "done": true
   },
@@ -18509,9 +18515,885 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
-      "has_quartz_block": "2025-07-02 01:28:51 +0000"
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_3_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/bronze_dust_from_ingot": {
+    "criteria": {
+      "has_bronze_ingot": "2025-07-04 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-07-04 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/stirling_generator": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_reinforced": {
+    "criteria": {
+      "has_blastbrick": "2025-07-04 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/aluminum_block_1x": {
+    "criteria": {
+      "has_aluminum_block": "2025-07-04 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-07-04 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/dark_steel_sword": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_alloy_block_2x": {
+    "criteria": {
+      "has_redstone_alloy_block_1x": "2025-07-04 02:14:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energetic_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/redstone_alloy_block_1x": {
+    "criteria": {
+      "has_redstone_alloy_block": "2025-07-04 02:14:47 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/aluminum_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-07-04 01:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_ingot_from_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-07-04 02:34:56 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/redstone_alloy_block_1x": {
+    "criteria": {
+      "has_redstone_alloy_block_1x": "2025-07-04 02:14:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/brass_dust_from_ingot": {
+    "criteria": {
+      "has_brass_ingot": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/coordinate_selector": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-04 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-04 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/sag_mill": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-07-04 02:33:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2025-07-04 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coke_to_coal_coke": {
+    "criteria": {
+      "has_coke": "2025-07-04 02:11:06 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/bronze_block_1x": {
+    "criteria": {
+      "has_bronze_block_1x": "2025-07-04 02:33:53 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/copper_alloy_block_2x": {
+    "criteria": {
+      "has_copper_alloy_block_1x": "2025-07-04 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/copper_alloy_block_1x": {
+    "criteria": {
+      "has_copper_alloy_block": "2025-07-04 02:28:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/alloy_smelter": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/double_layer_capacitor": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_4": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/extraction_speed_upgrade_1": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:05:00 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/octadic_capacitor": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:02:05 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_plate": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-07-04 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/wired_charger": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2025-07-04 02:07:37 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_filter_base": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-04 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/cold_fire_igniter": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/sandstone": {
+    "criteria": {
+      "has_wood": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/vibrant_capacitor_bank_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:05:00 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/deepslate_1x": {
+    "criteria": {
+      "has_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/crafter": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/bronze_block_1x": {
+    "criteria": {
+      "has_bronze_block": "2025-07-04 02:33:51 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/compress/bronze_block_2x": {
+    "criteria": {
+      "has_bronze_block_1x": "2025-07-04 02:33:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_ladder": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_blastfurnace": {
+    "criteria": {
+      "form_multiblock": "2025-07-04 02:10:50 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_block": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:14:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_block": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:28:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energetic_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_door": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/energetic_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:40 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_ore_hammer": {
+    "criteria": {
+      "has_bronze_block": "2025-07-04 02:33:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/advanced_capacitor_bank_upgrade": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:14:47 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:28:55 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/drain": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/painting_machine": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:05:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-04 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2025-07-04 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_nugget": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_ingot_from_dust": {
+    "criteria": {
+      "has_item": "2025-07-04 02:34:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
+    "criteria": {
+      "has_coal_coke": "2025-07-04 02:11:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_bars": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-07-04 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick_from_slab": {
+    "criteria": {
+      "has_cokebrick": "2025-07-04 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/redstone_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:05:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_from_slab": {
+    "criteria": {
+      "has_blastbrick": "2025-07-04 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "allthecompressed:recipes/building_blocks/decompress/copper_alloy_block_1x": {
+    "criteria": {
+      "has_copper_alloy_block_1x": "2025-07-04 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-07-04 02:06:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/tools/yeta_wrench": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-07-04 02:07:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick_to_slab": {
+    "criteria": {
+      "has_cokebrick": "2025-07-04 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:55:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-07-04 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/impulse_hopper": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 01:44:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/copper_alloy_nugget_to_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/advanced_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick_to_slab": {
+    "criteria": {
+      "has_blastbrick": "2025-07-04 02:10:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/brass]_ingot": "2025-07-04 02:35:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-07-04 01:50:15 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/basic_capacitor_bank": {
+    "criteria": {
+      "has_ingredient": "2025-07-04 02:01:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-04 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/bronze_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/bronze]_ingot": "2025-07-04 02:33:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-07-04 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/brass_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-04 02:35:57 +0000"
     },
     "done": true
   },
